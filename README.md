@@ -8,8 +8,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" margin="50px"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" margin="50px" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="sqlite" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -42,3 +41,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzadKshitij&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzadKshitij&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kshitij-azad-634569179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-azad-634569179" height="30" width="30" /></a>
+<a href="https://www.facebook.com/sanodariya.kshitij" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanodariya.kshitij" height="30" width="30" /></a>
+<a href="https://www.instagram.com/being_mad247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="being_mad247" height="30" width="30" /></a>
+</p>
