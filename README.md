@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzadKshitij&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kshitij-azad-634569179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-azad-634569179" height="30" width="30" /></a>
-<a href="https://www.facebook.com/sanodariya.kshitij" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanodariya.kshitij" height="30" width="30" /></a>
-<a href="https://www.instagram.com/being_mad247" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="being_mad247" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kshitij-azad-634569179" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-azad-634569179" height="30" width="30" /></a>
+<a href="https://www.facebook.com/sanodariya.kshitij" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanodariya.kshitij" height="30" width="30" /></a>
+<a href="https://www.instagram.com/being_mad247" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="being_mad247" height="30" width="30" /></a>
 </p>
