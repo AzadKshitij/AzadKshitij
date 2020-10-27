@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzadKshitij&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzadKshitij&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzadKshitij&langs_count=8&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kshitij-azad-634569179" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-azad-634569179" height="30" width="30" /></a>
