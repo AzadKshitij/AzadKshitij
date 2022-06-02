@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - 😎 I'm a maintainer of [Flappy Bird](https://github.com/AzadKshitij/flappy-bird)
 - ❤  I’m currently learning the [Godot Engine](https://godotengine.org/) and GDScript
 - 📫 How to reach me: Email: sanodariya.1@iitj.ac.in
-- ⚡ Fun fact: IITian
 
 ### Latest GitHub Activity
 
