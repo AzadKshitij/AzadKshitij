@@ -15,38 +15,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Godot" width="40" height="40"/>
 
-<!--
-Here are some ideas to get you started:
-
- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
- ...
--->
-
-- 🔭 I’m currently working on [Triger](https://github.com/AzadKshitij/Triger), and a few private repos...
-- 😎 I'm a maintainer of [Flappy Bird](https://github.com/AzadKshitij/flappy-bird)
-- ❤  I’m currently learning the [Godot Engine](https://godotengine.org/) and GDScript
-- 📫 How to reach me: Email: sanodariya.1@iitj.ac.in
-
-### Latest GitHub Activity
-
-<img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AzadKshitij&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzadKshitij&layout=compact&langs_count=8&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
- <a href="https://www.linkedin.com/in/kshitij-azad-634569179" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-azad-634569179" height="30" width="30" />
- </a>
- <a href="https://www.facebook.com/sanodariya.kshitij" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg" alt="sanodariya.kshitij" height="200" width="80" />
- </a>
- <a href="https://www.instagram.com/being_mad247" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="being_mad247" height="30" width="30" />
- </a>
-</p>
+![GitHub metrics](https://github.com/AzadKshitij/AzadKshitij/blob/master/github-metrics.svg)
